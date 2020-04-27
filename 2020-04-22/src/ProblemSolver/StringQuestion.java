@@ -33,7 +33,7 @@ class Solution {
             begin = (snap >> 1) - (max >> 1) + 1;
         }
         end = (snap >> 1) + (max >> 1);
-        return s.substring(begin,end);
+        return s.substring(begin,end+1);
     }
 
     private int expand(String s, int i) {
