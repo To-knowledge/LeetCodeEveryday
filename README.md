@@ -6,3 +6,7 @@ for interest also for job.
 
 ### 查找山脉数组（2020-04-29）
 [leetcode题解](https://leetcode-cn.com/problems/find-in-mountain-array/solution/javashuang-bai-fen-bai-tong-guo-shi-jian-fu-za-du-/)
+
+### 快乐数判断（2020-04-30）
+[leetcode题解](https://leetcode-cn.com/problems/happy-number/solution/javasan-lie-biao-zuo-xun-huan-jian-ce-by-balancex-/)
+
