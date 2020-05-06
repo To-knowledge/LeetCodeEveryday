@@ -18,3 +18,6 @@ for interest also for job.
 
 ### 最大子序列和（2020-05-05）
 DP状态选择以哪个索引结尾，dp[i] = max(dp[i-1] + nums[i], nums[i])
+
+### 最低票价（2020-05-06）
+[leetcode题解](https://leetcode-cn.com/problems/minimum-cost-for-tickets/solution/zhuang-tai-zhuan-yi-fang-cheng-zi-di-xiang-shang-s/)
