@@ -21,3 +21,6 @@ DP状态选择以哪个索引结尾，dp[i] = max(dp[i-1] + nums[i], nums[i])
 
 ### 最低票价（2020-05-06）
 [leetcode题解](https://leetcode-cn.com/problems/minimum-cost-for-tickets/solution/zhuang-tai-zhuan-yi-fang-cheng-zi-di-xiang-shang-s/)
+
+### 最大正方形（2020-05-08）
+[leetcode题解](https://leetcode-cn.com/problems/maximal-square/solution/san-ge-dpshu-zu-dong-tai-gui-hua-javashi-xian-by-b/)
