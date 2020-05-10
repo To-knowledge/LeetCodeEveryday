@@ -24,3 +24,17 @@ DP状态选择以哪个索引结尾，dp[i] = max(dp[i-1] + nums[i], nums[i])
 
 ### 最大正方形（2020-05-08）
 [leetcode题解](https://leetcode-cn.com/problems/maximal-square/solution/san-ge-dpshu-zu-dong-tai-gui-hua-javashi-xian-by-b/)
+
+### 字典树查单词频率（2020-05-10）
+注意字典树节点的定义
+```java
+class TrieNode{
+    int cnt;
+    TrieNode[] son = new TrieNode[26];
+    //真正用到某一结点时，还需要son[i] = new TrieNode();
+    
+    public TrieNode(){
+        this.cnt = 0;    
+}
+}
+```
