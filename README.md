@@ -99,3 +99,8 @@ class KMP {
 }
 
 ```
+
+### 最小栈（2020-05-12）
+注意类的equals与==的区别
+
+对于Integer类，它重写了Object的equals方法，直接比较的是内容
